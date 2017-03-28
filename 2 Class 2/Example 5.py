@@ -1,0 +1,6 @@
+#Page 27
+
+collection = ['hey',5,'d']
+
+for x in collection:
+	print(x)
